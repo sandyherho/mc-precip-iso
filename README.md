@@ -23,14 +23,11 @@ If you find these data useful, please  consider citing our paper:
 
 `
 @article{SuwarmanEtAl23,
-         author={Suwarman, R. and  Herho, S. H. S. and Belgaman, H. A. and Irawan, D. E. and Ichiyanagi, K. and Yosa, I.M. and Utami, A. I. D and Prayogo, S. and Aldrian, E.},
-         title={},
-         journal={xxxxx},
-         year={2023},
-         volume={x},
-         number={x},
-         pages={x - x},
-         doi={xx}
+         author={Suwarman, R. and  Herho, S. H. S. and Belgaman, H. A. and Ichiyanagi, K. and Uesugi, T. and Irawan, D. E. and Yosa, I.M. and Utami, A. I. D and Prayogo, S. and Aldrian, E.},
+         title={imc-precip-iso: open monthly stable isotope data of precipitation over the Indonesian Maritime Continent},
+         journal={J. of Data, Inf. and Manag.},
+         year={2024},
+         doi={https://doi.org/10.1007/s42488-024-00116-1}
 }
 `
 
